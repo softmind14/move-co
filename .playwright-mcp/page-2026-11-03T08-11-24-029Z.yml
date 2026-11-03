@@ -1,0 +1,250 @@
+- generic [active] [ref=f42e1]:
+  - navigation [ref=f42e2]:
+    - generic [ref=f42e3]:
+      - link "Move & Co — Accueil" [ref=f42e4] [cursor=pointer]:
+        - /url: index.html
+        - generic [ref=f42e8]:
+          - text: MOVE
+          - emphasis [ref=f42e9]: "&"
+          - text: CO.
+      - list [ref=f42e10]:
+        - listitem [ref=f42e11]:
+          - link "Accueil" [ref=f42e12] [cursor=pointer]:
+            - /url: index.html
+        - listitem [ref=f42e13]:
+          - link "Services" [ref=f42e14] [cursor=pointer]:
+            - /url: services.html
+        - listitem [ref=f42e15]:
+          - link "Boutique" [ref=f42e16] [cursor=pointer]:
+            - /url: boutique.html
+        - listitem [ref=f42e17]:
+          - link "Contact" [ref=f42e18] [cursor=pointer]:
+            - /url: contact.html
+  - main [ref=f42e19]:
+    - generic [ref=f42e20]:
+      - generic [ref=f42e22]:
+        - paragraph [ref=f42e23]: Abomey-Calavi · Bénin · Depuis 2021
+        - heading "Votre mouvement. Votre évolution." [level=1] [ref=f42e25]:
+          - generic [ref=f42e26]:
+            - generic [ref=f42e27]: Votre
+            - generic [ref=f42e29]: mouvement.
+          - generic [ref=f42e31]:
+            - generic [ref=f42e32]: Votre
+            - generic [ref=f42e34]: évolution.
+        - paragraph [ref=f42e36]: Un coaching adapté à vos objectifs, à votre rythme et à votre mode de vie. Le sport, sur-mesure.
+        - generic [ref=f42e37]:
+          - link "Découvrir nos services →" [ref=f42e38] [cursor=pointer]:
+            - /url: services.html
+            - text: Découvrir nos services
+            - generic [ref=f42e39]: →
+          - link "Réserver mon bilan" [ref=f42e40] [cursor=pointer]:
+            - /url: contact.html
+        - generic [ref=f42e41]:
+          - generic [ref=f42e42]:
+            - generic [ref=f42e43]: 200+
+            - generic [ref=f42e44]: Clients accompagnés
+          - generic [ref=f42e45]:
+            - generic [ref=f42e46]: 10 ans
+            - generic [ref=f42e47]: D'expérience coach
+          - generic [ref=f42e48]:
+            - generic [ref=f42e49]: "3"
+            - generic [ref=f42e50]: Coachs certifiés
+          - generic [ref=f42e51]:
+            - generic [ref=f42e52]: 6h→20h
+            - generic [ref=f42e53]: Du lundi au samedi
+      - generic [ref=f42e55]: Scroll
+    - generic [ref=f42e58]:
+      - generic [ref=f42e59]:
+        - text: Coaching individuel
+        - generic [ref=f42e60]: ✦
+        - text: Séances de groupe
+        - generic [ref=f42e61]: ✦
+        - text: Remise en forme
+        - generic [ref=f42e62]: ✦
+        - generic [ref=f42e63]: Boutique officielle
+        - generic [ref=f42e64]: ✦
+      - generic [ref=f42e65]:
+        - text: Coaching individuel
+        - generic [ref=f42e66]: ✦
+        - text: Séances de groupe
+        - generic [ref=f42e67]: ✦
+        - text: Remise en forme
+        - generic [ref=f42e68]: ✦
+        - generic [ref=f42e69]: Boutique officielle
+        - generic [ref=f42e70]: ✦
+    - generic [ref=f42e73]:
+      - generic [ref=f42e74]:
+        - paragraph [ref=f42e75]: Qui sommes-nous ?
+        - heading "Le sport, bien plus qu'une activité." [level=2] [ref=f42e76]
+        - generic [ref=f42e77]:
+          - paragraph [ref=f42e78]: Move & Co est une entreprise spécialisée dans le coaching sportif et le bien-être à Abomey-Calavi.
+          - paragraph [ref=f42e79]:
+            - strong [ref=f42e80]: Notre histoire.
+            - text: "Fondée en 2021, l'entreprise est née d'une conviction simple : le sport ne devrait être réservé ni à une catégorie de personnes, ni à un niveau de forme particulier. Ce qui a commencé par quelques séances collectives est devenu un accompagnement complet, avec aujourd'hui"
+            - strong [ref=f42e81]: plus de 200 clients
+            - text: et une boutique officielle.
+          - paragraph [ref=f42e82]: Nous accompagnons les femmes et les hommes dans leur progression grâce à des programmes personnalisés.
+        - generic [ref=f42e83]:
+          - generic [aria-hidden] [ref=f42e84]: ✦
+          - paragraph [ref=f42e85]:
+            - strong [ref=f42e86]: Découvrez notre boutique
+            - text: pour vous équiper avec style — livraison locale offerte dès 20 000 FCFA.
+        - generic [ref=f42e87]:
+          - link "Découvrir la boutique →" [ref=f42e88] [cursor=pointer]:
+            - /url: boutique.html
+            - text: Découvrir la boutique
+            - generic [ref=f42e89]: →
+          - link "Nous contacter" [ref=f42e90] [cursor=pointer]:
+            - /url: contact.html
+      - generic [ref=f42e91]:
+        - img "Séance de coaching sportif personnalisé à Move & Co" [ref=f42e92]
+        - generic [ref=f42e93]:
+          - generic [ref=f42e94]: "+200"
+          - generic [ref=f42e95]: Clients accompagnés
+    - generic [ref=f42e97]:
+      - generic [ref=f42e98]:
+        - paragraph [ref=f42e99]: Ce qui nous guide
+        - heading "Nos valeurs" [level=2] [ref=f42e100]
+        - paragraph [ref=f42e101]: Trois principes qui guident chaque séance, chaque conseil, chaque progrès.
+      - generic [ref=f42e102]:
+        - article [ref=f42e103]:
+          - generic [aria-hidden]: "01"
+          - heading "Écoute" [level=3] [ref=f42e108]
+          - paragraph [ref=f42e109]: Chaque objectif est différent. Nous prenons le temps de comprendre votre rythme, vos contraintes et vos motivations avant de construire votre programme.
+        - article [ref=f42e110]:
+          - generic [aria-hidden]: "02"
+          - heading "Progression" [level=3] [ref=f42e115]
+          - paragraph [ref=f42e116]: Des résultats mesurables, étape par étape. Nous ajustons vos séances en fonction de vos progrès pour ne jamais cesser d'avancer.
+        - article [ref=f42e117]:
+          - generic [aria-hidden]: "03"
+          - heading "Communauté" [level=3] [ref=f42e124]
+          - paragraph [ref=f42e125]: S'entraîner ensemble motive. Chez Move & Co, chacun trouve sa place, dans le respect et la bienveillance.
+    - generic [ref=f42e127]:
+      - generic [ref=f42e128]:
+        - paragraph [ref=f42e129]: Celles et ceux qui vous accompagnent
+        - heading "Notre équipe" [level=2] [ref=f42e130]
+        - paragraph [ref=f42e131]: Trois coachs certifiés à votre écoute, du lundi au samedi.
+      - generic [ref=f42e132]:
+        - article [ref=f42e133]:
+          - generic [aria-hidden] [ref=f42e134]: MA
+          - heading "Assoumou Moussou" [level=3] [ref=f42e135]
+          - paragraph [ref=f42e136]: Fondatrice & coach certifiée
+          - paragraph [ref=f42e137]: Spécialiste de la remise en forme et du suivi personnalisé, elle accompagne ses clients depuis plus de 10 ans.
+        - article [ref=f42e138]:
+          - generic [aria-hidden] [ref=f42e139]: KD
+          - heading "Kofi Dossou" [level=3] [ref=f42e140]
+          - paragraph [ref=f42e141]: Coach musculation
+          - paragraph [ref=f42e142]: "Préparation physique, force et technique : Kofi vous aide à repousser vos limites en toute sécurité."
+        - article [ref=f42e143]:
+          - generic [aria-hidden] [ref=f42e144]: AS
+          - heading "Aïcha Sossou" [level=3] [ref=f42e145]
+          - paragraph [ref=f42e146]: Coach fitness & bien-être
+          - paragraph [ref=f42e147]: "Cardio, mobilité et gestion du stress : Aïcha fait de chaque séance un moment de reconnexion à soi."
+    - generic [ref=f42e149]:
+      - generic [ref=f42e150]:
+        - paragraph [ref=f42e151]: Ce que nous proposons
+        - heading "Nos services" [level=2] [ref=f42e152]
+        - paragraph [ref=f42e153]: Des solutions adaptées à chaque objectif, à chaque niveau.
+      - generic [ref=f42e154]:
+        - article [ref=f42e155]:
+          - generic [aria-hidden]: "01"
+          - heading "Coaching individuel & Groupe" [level=3] [ref=f42e158]
+          - paragraph [ref=f42e159]: "Choisissez votre format : un accompagnement 100% sur-mesure ou des séances collectives stimulantes."
+          - link "En savoir plus →" [ref=f42e160] [cursor=pointer]:
+            - /url: services.html
+            - text: En savoir plus
+            - generic [ref=f42e161]: →
+        - article [ref=f42e162]:
+          - generic [aria-hidden]: "02"
+          - heading "Fitness & Musculation" [level=3] [ref=f42e166]
+          - paragraph [ref=f42e167]: Développez votre force et vos capacités physiques grâce à des programmes adaptés à vos objectifs.
+          - link "En savoir plus →" [ref=f42e168] [cursor=pointer]:
+            - /url: services.html
+            - text: En savoir plus
+            - generic [ref=f42e169]: →
+        - article [ref=f42e170]:
+          - generic [aria-hidden]: "03"
+          - heading "Remise en forme & Bien-être" [level=3] [ref=f42e174]
+          - paragraph [ref=f42e175]: Retrouvez une activité physique régulière et prenez soin de votre équilibre physique et mental.
+          - link "En savoir plus →" [ref=f42e176] [cursor=pointer]:
+            - /url: services.html
+            - text: En savoir plus
+            - generic [ref=f42e177]: →
+    - generic [ref=f42e180]:
+      - generic [ref=f42e181]:
+        - generic [ref=f42e182]: "0"
+        - generic [ref=f42e183]: Année de fondation
+      - generic [ref=f42e184]:
+        - generic [ref=f42e185]: "0"
+        - generic [ref=f42e186]: Clients suivis
+      - generic [ref=f42e187]:
+        - generic [ref=f42e188]: "0"
+        - generic [ref=f42e189]: Jours / semaine
+      - generic [ref=f42e190]:
+        - generic [ref=f42e191]: "0"
+        - generic [ref=f42e192]: Ouverture quotidienne
+    - generic [ref=f42e194]:
+      - generic [ref=f42e195]:
+        - paragraph [ref=f42e196]: L'esprit Move & Co.
+        - heading "En mouvement, ensemble." [level=2] [ref=f42e197]
+      - generic [ref=f42e198]:
+        - generic [ref=f42e200]:
+          - figure "Collectif L'énergie du groupe" [ref=f42e201]:
+            - img "Cours de sport collectif en plein air" [ref=f42e202]
+            - generic [ref=f42e203]:
+              - generic [ref=f42e204]: Collectif
+              - generic [ref=f42e205]: L'énergie du groupe
+          - figure "Performance Repousser ses limites" [ref=f42e206]:
+            - img "Athlète en position de départ sur piste" [ref=f42e207]
+            - generic [ref=f42e208]:
+              - generic [ref=f42e209]: Performance
+              - generic [ref=f42e210]: Repousser ses limites
+          - figure "Bien-être Retrouver son équilibre" [ref=f42e211]:
+            - img "Séance de yoga au coucher du soleil" [ref=f42e212]
+            - generic [ref=f42e213]:
+              - generic [ref=f42e214]: Bien-être
+              - generic [ref=f42e215]: Retrouver son équilibre
+        - tablist "Navigation du carrousel" [ref=f42e216]:
+          - button "Image 1" [ref=f42e217] [cursor=pointer]
+          - button "Image 2" [ref=f42e218] [cursor=pointer]
+          - button "Image 3" [ref=f42e219] [cursor=pointer]
+    - generic [ref=f42e222]:
+      - paragraph [ref=f42e223]: Premier pas
+      - heading "Prêt(e) à passer à l'action ?" [level=2] [ref=f42e224]: Prêt(e) à passerà l'action ?
+      - paragraph [ref=f42e225]: Votre évolution commence par une décision. Faites le premier pas avec Move & Co.
+      - generic [ref=f42e226]:
+        - link "Rejoignez-nous →" [ref=f42e227] [cursor=pointer]:
+          - /url: contact.html
+          - text: Rejoignez-nous
+          - generic [ref=f42e228]: →
+        - link "Voir la boutique" [ref=f42e229] [cursor=pointer]:
+          - /url: boutique.html
+  - contentinfo [ref=f42e230]:
+    - text: MOVE & CO.
+    - generic [ref=f42e231]:
+      - generic [ref=f42e232]:
+        - heading "MOVE & CO." [level=3] [ref=f42e233]
+        - paragraph [ref=f42e234]: Move with purpose. Live with energy.
+        - paragraph [ref=f42e235]: Coaching sportif et bien-être à Abomey-Calavi. Programmes personnalisés, séances collectives et boutique officielle.
+      - generic [ref=f42e236]:
+        - heading "Navigation" [level=4] [ref=f42e237]
+        - list [ref=f42e238]:
+          - listitem [ref=f42e239]:
+            - link "Accueil" [ref=f42e240] [cursor=pointer]:
+              - /url: index.html
+          - listitem [ref=f42e241]:
+            - link "Services" [ref=f42e242] [cursor=pointer]:
+              - /url: services.html
+          - listitem [ref=f42e243]:
+            - link "Boutique" [ref=f42e244] [cursor=pointer]:
+              - /url: boutique.html
+          - listitem [ref=f42e245]:
+            - link "Contact" [ref=f42e246] [cursor=pointer]:
+              - /url: contact.html
+      - generic [ref=f42e247]:
+        - heading "Contact" [level=4] [ref=f42e248]
+        - generic [ref=f42e249]: Abomey-Calavi, Bénin
+        - generic [ref=f42e255]: +229 XX XX XX XX
+        - generic [ref=f42e260]: contact@moveandco.com
+    - paragraph [ref=f42e266]: © 2026 Move & Co. Tous droits réservés.
+  - button "Retour en haut"

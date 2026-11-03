@@ -1,0 +1,12 @@
+[   33329ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8765/images/produit-tenuedesport.jpg:0
+[   33332ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8765/images/produit-gourde.jpg:0
+[   33350ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8765/images/produit-tapis.jpg:0
+[   33353ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8765/images/produit-elastiques.jpg:0
+[   33445ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8765/images/produit-pack.jpg:0
+[   33449ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8765/images/produit-debardeur.jpg:0
+[  128367ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8765/images/produit-tenuedesport.jpg:0
+[  128371ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8765/images/produit-gourde.jpg:0
+[  128388ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8765/images/produit-elastiques.jpg:0
+[  128391ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8765/images/produit-tapis.jpg:0
+[  128419ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8765/images/produit-debardeur.jpg:0
+[  128422ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8765/images/produit-pack.jpg:0
